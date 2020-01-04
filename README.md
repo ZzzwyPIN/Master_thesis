@@ -1,2 +1,2 @@
-# test
-My first project just for test.
+# Master thesis
+This res stores my master thesis, to avoid the "word" crash.
