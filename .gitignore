@@ -1,0 +1,13 @@
+# windows:
+*.png
+*.PNG
+*.jpg
+*.pptx
+*.pdf
+*.txt
+
+# matlab:
+*.asv
+*.mat
+*.dat
+*.fig
